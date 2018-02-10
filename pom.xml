@@ -8,7 +8,8 @@
   <version>1.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>mygitapp1</name>
+  
+  <name>mygitapp2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
