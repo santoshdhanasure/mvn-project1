@@ -3,11 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.santosh.psl</groupId>
   <artifactId>mygitapp1</artifactId>
+  
+  
   <version>1.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   
-  <name>mygitapp3</name>
+  <name>mygitapp4</name>
   <url>http://maven.apache.org</url>
 
   <properties>
